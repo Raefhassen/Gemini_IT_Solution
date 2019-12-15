@@ -1,0 +1,4 @@
+CREATE SCHEMA `gemini_its_amm_db` DEFAULT CHARACTER SET latin1 COLLATE latin1_general_ci ;
+
+
+dotnet ef dbcontext scaffold "Server=localhost;user id=GeminiAdmin;password=111AAA**;Database=gemini_its_amm_db" "Pomelo.EntityFrameworkCore.MySql" -c AMMDbContext -o Models

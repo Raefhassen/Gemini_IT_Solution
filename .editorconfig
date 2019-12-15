@@ -1,0 +1,4 @@
+﻿[*.vb]
+
+# SCS0029: Potential XSS vulnerability
+dotnet_diagnostic.SCS0029.severity = suggestion

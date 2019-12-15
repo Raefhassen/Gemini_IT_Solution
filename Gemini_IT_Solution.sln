@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gemini-ITS-AMM", "Gemini-ITS-AMM\Gemini-ITS-AMM.csproj", "{833741BD-9CEE-42E7-8C0D-F7AE3D68C675}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{833741BD-9CEE-42E7-8C0D-F7AE3D68C675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{833741BD-9CEE-42E7-8C0D-F7AE3D68C675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{833741BD-9CEE-42E7-8C0D-F7AE3D68C675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{833741BD-9CEE-42E7-8C0D-F7AE3D68C675}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEA462C9-708B-41EB-ADC7-2FEAF0ACE475}
+	EndGlobalSection
+EndGlobal
